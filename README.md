@@ -9,6 +9,7 @@ A curated list of awesome nostalgia resources.
 
 ## Games
 
+* [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games) - A collection of action, strategy and adventure MS-DOS games at Internet Archive. They are playable in the web browser.
 
 ## Operating systems
 
