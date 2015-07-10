@@ -11,6 +11,10 @@ A curated list of awesome nostalgia resources.
 
 * [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games) - A collection of action, strategy and adventure MS-DOS games at Internet Archive. They are playable in the web browser.
 
+## Internet
+
+* [WayBack Machine](https://archive.org/web/) - The Internet Archive WayBack Machine. You can see how looked almost any website in the past. This digital preservation institution has been saving digital artifacts since 1996.
+
 ## Operating systems
 
 * [FreeDOS](http://www.freedos.org/) - A complete, free, DOS-compatible operating system that you can use to play classic DOS games, run legacy business software, or develop embedded systems. Any program that works on MS-DOS should also run on FreeDOS.
