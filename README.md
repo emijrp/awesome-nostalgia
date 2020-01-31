@@ -21,4 +21,4 @@ A curated list of awesome nostalgia resources.
 
 # Contributing
 
-For contributing, [open an issue](https://github.com/emijrp/awesome-nostalgia/issues) and/or a [pull request](https://github.com/emijrp/awesome-nostalgia/pulls).
+For contributing, [open an issue](https://github.com/emijrp/awesome-nostalgia/issues) and/or a [pull request](https://github.com/emijrp/awesome-nostalgia/pulls). Thanks.
